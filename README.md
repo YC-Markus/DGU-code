@@ -14,3 +14,4 @@ To train DGU, simply run:
 ```bash
 python train_AAPM.py
 ```
+A DGU model weight on AAPM dataset with 32-view sparsity level is available at [here](https://drive.google.com/drive/folders/18F3xLCcQ_d0536_XEHbPJLQeZhBZINkU?usp=drive_link)
